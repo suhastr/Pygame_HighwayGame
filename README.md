@@ -3,7 +3,7 @@
 ## Game Overview (Total 300 miles Race)
 
 - Requires Multiplayer
-- Game has four levels
+- Game has Three levels
   - **Level 1:** Race for 100 miles using a common car.
   - **Level 2:** Buy super car and race for 100 miles.
   - **Level 3:** Buy fighter Jet and race for 100 miles.
