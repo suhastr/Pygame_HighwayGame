@@ -5,8 +5,8 @@
 - Requires Multiplayer
 - Game has Three levels
   - **Level 1:** Race for 100 miles using a common car.
-  - **Level 2:** Buy super car and race for 100 miles.
-  - **Level 3:** Buy fighter Jet and race for 100 miles.
+  - **Level 2:** Buy super car and race for 100 miles. (PENDING)
+  - **Level 3:** Buy fighter Jet and race for 100 miles. (PENDING)
 - **Boosters** : Fuels appear at random places on the way, player need to be vigilant.
 - **Coins** : Coins appear at random places on the way, player needs to collect as much as possible for buying vehicle in the next level.
 
